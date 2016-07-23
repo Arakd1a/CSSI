@@ -1,2 +1,2 @@
-# Syssy
-Syssy - Client Side System Information
+# SCSSI
+CSSI - Client Side System Information
